@@ -1,0 +1,16 @@
+4
+-R OR S
+R
+-P OR S OR T
+-R OR T
+6
+S
+-P OR T
+T
+-R
+-P OR S
+S OR T
+2
+-P
+{}
+YES
